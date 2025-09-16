@@ -96,10 +96,10 @@ I love solving **algorithmic challenges** and participating in **competitive pro
 ---
 
 ## 📫 Let's Connect!  
-[![GitHub](https://img.shields.io/badge/GitHub-Dev%20Asib-24292E?style=for-the-badge&logo=github)](https://github.com/dev-asib)  
-[![Facebook](https://img.shields.io/badge/Facebook-Dev%20Asib-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/asib.dev/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Dev%20Asib-24292E?style=for-the-badge&logo=github)](https://github.com/asib.research)  
+[![Facebook](https://img.shields.io/badge/Facebook-Dev%20Asib-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/asib.research/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dev%20Asib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-asib/)  
-[![Gmail](https://img.shields.io/badge/Gmail-tech.asib.com%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tech.asib.com@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-asib.research.com%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tech.asib.com@gmail.com)
 
 ---
 
