@@ -90,7 +90,7 @@ Currently, I am expanding my skills by learning **Backend Development with Go** 
 ## 🏆 Competitive Programming & Problem Solving  
 I love solving **algorithmic challenges** and participating in **competitive programming**.  
 
-- **Beecrowd**: [![Beecrowd Profile](https://img.shields.io/badge/Beecrowd-Profile-brightgreen)](https://judge.beecrowd.com/en/profile/906929)  
+- **Beecrowd**: [![Beecrowd Profile](https://img.shields.io/badge/Beecrowd-Profile-brightgreen)](https://judge.beecrowd.com/en/profile/1182369)  
 - **LeetCode**: [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/dev-asib/)  
 
 ---
