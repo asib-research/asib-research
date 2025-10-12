@@ -71,15 +71,15 @@ Currently, I am expanding my skills by learning **Backend Development with Go** 
 </a>  
 </td>  
 <td>  
-<a href="https://streak-stats.demolab.com/?user=dev-asib&theme=tokyonight">  
-<img src="https://streak-stats.demolab.com/?user=dev-asib&theme=tokyonight" alt="GitHub Streak"/>  
+<a href="https://streak-stats.demolab.com/?user=asib-research&theme=tokyonight">  
+<img src="https://streak-stats.demolab.com/?user=asib-research&theme=tokyonight" alt="GitHub Streak"/>  
 </a>  
 </td>  
 </tr>  
 <tr>  
 <td colspan="2" align="center">  
 <a href="https://github.com/anuraghazra/github-readme-stats">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-asib&layout=compact&theme=tokyonight" alt="Top Languages"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asib-research&layout=compact&theme=tokyonight" alt="Top Languages"/>  
 </a>  
 </td>  
 </tr>  
