@@ -1,103 +1,132 @@
-## Hi there! I'm Asib  
-## Flutter Developer | Problem Solver | Software Development Enthusiast  
+# Asib Raiyan
+Flutter Developer | Software Engineer
 
-I am a **passionate Flutter Developer** who loves building **scalable, high-performance, and user-friendly applications**.  
-With expertise in **cross-platform mobile development, clean architecture, and performance optimization**, I strive to create efficient and intuitive digital experiences.  
+I am a Flutter Developer with a strong focus on building scalable, maintainable, and high-performance cross-platform mobile applications. I specialize in clean architecture, structured state management, and production-ready Flutter solutions. I have hands-on experience delivering applications from concept to deployment.
 
-Currently, I am expanding my skills by learning **Backend Development with Go** and diving deeper into **System Design**.  
-
----
-
-## 📌 About Me  
-- 🔭 **Currently Working At:** Flutter Developer at SM Technology  
-- 🎯 **Focused On:** Scalable Flutter Apps, Clean Architecture, Performance Optimization  
-- 🌱 **Currently Learning:**  
-  - **Backend Development with Go**  
-  - **Advanced Flutter & System Design**  
-- 💡 **Looking To Collaborate On:** Open Source & Innovative Mobile Projects  
+I am currently expanding my backend expertise with Go (Golang) and strengthening my understanding of system design and backend architecture to contribute effectively to end-to-end product development.
 
 ---
 
-## 🛠️ Tech Stack & Skills  
-
-### 📱 Mobile Development  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![FVM](https://img.shields.io/badge/FVM-0066FF?style=for-the-badge&logo=flutter&logoColor=white)  
-
-### ⚡ Backend & Cloud  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![WebSocket](https://img.shields.io/badge/WebSocket-0066CC?style=for-the-badge&logo=websocket&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)  
-
-### 🧩 State Management  
-- **BLoC**  
-- **GetX**  
-- **Provider**  
-
-### 🏗️ App Deployment  
-- **Google Play & App Store Deployment**  
-- **CI/CD:** GitHub Actions, Fastlane  
-
-### 📏 Architecture & Design Patterns  
-- **Clean Architecture**  
-- **MVC, MVVM**  
-- **Layer First Architecture**  
-- **Feature First Architecture**  
-
-### 🎨 UI/UX Design  
-- **Figma**  
-
-### 🔧 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-1F3C88?style=for-the-badge&logo=intellij-idea&logoColor=white)  
+## Professional Summary
+- Flutter Developer with experience in production mobile applications
+- Strong understanding of clean architecture and scalable app design
+- Experience integrating REST APIs and real-time communication
+- Actively learning backend development and system design
+- Passionate about clean code, performance, and maintainability
 
 ---
 
-## 📊 GitHub Stats & Activity  
-<table>  
-<tr>  
-<td>  
-<a href="https://github.com/asib-research">  
-<img src="https://github-readme-stats.vercel.app/api?username=asib-research&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>  
-</a>  
-</td>  
-<td>  
-<a href="https://streak-stats.demolab.com/?user=asib-research&theme=tokyonight">  
-<img src="https://streak-stats.demolab.com/?user=asib-research&theme=tokyonight" alt="GitHub Streak"/>  
-</a>  
-</td>  
-</tr>  
-<tr>  
-<td colspan="2" align="center">  
-<a href="https://github.com/anuraghazra/github-readme-stats">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asib-research&layout=compact&theme=tokyonight" alt="Top Languages"/>  
-</a>  
-</td>  
-</tr>  
-</table>  
+## Experience
+
+### Flutter Developer — SM Technology
+**Duration:** Present
+
+- Developed and maintained cross-platform mobile applications using Flutter
+- Implemented clean architecture for scalable and maintainable codebases
+- Integrated REST APIs and Firebase services
+- Worked with real-time features using WebSocket and Socket.IO
+- Optimized application performance and improved UI responsiveness
+- Collaborated with designers and backend developers for feature delivery
+- Managed app releases to Google Play Store and Apple App Store
 
 ---
 
-## 🏆 Competitive Programming & Problem Solving  
-I love solving **algorithmic challenges** and participating in **competitive programming**.  
+## Technical Skills
 
-- **Beecrowd**: [![Beecrowd Profile](https://img.shields.io/badge/Beecrowd-Profile-brightgreen)](https://judge.beecrowd.com/en/profile/1182369)  
-- **LeetCode**: [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/dev-asib/)  
+### Mobile Development
+- Flutter (iOS and Android)
+- Dart
+- Flutter Version Management (FVM)
+
+### Backend and Cloud
+- Firebase (Authentication, Firestore, Realtime Database)
+- RESTful APIs
+- WebSocket (real-time, bi-directional communication)
+- Socket.IO (event-driven real-time messaging)
+- Go (Golang) – backend fundamentals and learning projects
+
+### State Management
+- BLoC
+- GetX
+- Provider
+
+### Architecture and Design
+- Clean Architecture
+- MVC and MVVM
+- Feature-First Architecture
+- Layer-First Architecture
+
+### CI/CD and Deployment
+- Google Play Store and Apple App Store
+- GitHub Actions
+- Fastlane
+
+### UI/UX Collaboration
+- Figma (design handoff and implementation)
+
+### Tools and Platforms
+- Git and GitHub
+- VS Code
+- Android Studio
+- IntelliJ IDEA
+- Postman
 
 ---
 
-## 📫 Let's Connect!  
-[![GitHub](https://img.shields.io/badge/GitHub-Dev%20Asib-24292E?style=for-the-badge&logo=github)](https://github.com/asib-research)  
-[![Facebook](https://img.shields.io/badge/Facebook-Asif%20Raiyan-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/61582504727888/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asib%20Raiyan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asifraiyan-systems/)  
-[![Gmail](https://img.shields.io/badge/Gmail-asifraiyan.systems%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asifraiyan.systems@gmail.com)
+## Selected Projects
+
+### Flutter Production Applications
+- Developed scalable Flutter applications following clean architecture
+- Implemented authentication, real-time updates, and API integrations
+- Ensured performance optimization and maintainable code structure
+
+### Real-Time Features
+- Implemented WebSocket-based real-time communication
+- Used Socket.IO for event-driven messaging
+- Handled connection lifecycle, error recovery, and state synchronization
+
+### Backend Learning Projects (Go)
+- REST API fundamentals
+- WebSocket server basics
+- Concurrent service concepts using Go routines
 
 ---
 
-## 🚀 Let's Build Something Amazing Together!  
-*"Passionate about Flutter, Clean Code, and Scalable Architecture. Always open to new opportunities and collaborations!"*  
+## Competitive Programming and Problem Solving
+I actively practice data structures and algorithms to strengthen analytical thinking and improve system-level decision-making.
+
+- Beecrowd: https://judge.beecrowd.com/en/profile/1182369
+- LeetCode: https://leetcode.com/dev-asib/
+
+---
+
+## GitHub Activity and Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asib-research&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=asib-research&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asib-research&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## Professional Interests
+- Scalable mobile system design
+- Real-time application architecture
+- Backend services and distributed systems
+- Performance optimization and clean code practices
+
+---
+
+## Contact Information
+- GitHub: https://github.com/asib-research
+- LinkedIn: https://www.linkedin.com/in/asifraiyan-systems/
+- Email: asifraiyan.systems@gmail.com
+- Facebook: https://www.facebook.com/61582504727888/
+
+---
+
+## Professional Statement
+I am committed to building reliable, scalable, and maintainable software using strong engineering principles. I value clear architecture, collaboration, and continuous learning. I am open to professional opportunities, open-source contributions, and impactful technical collaborations.
