@@ -1,33 +1,18 @@
-# Asib
+# Asib Raiyan
 Flutter Developer | Software Engineer
 
-I am a Flutter Developer with a strong focus on building scalable, maintainable, and high-performance cross-platform mobile applications. I specialize in clean architecture, structured state management, and production-ready Flutter solutions. I have hands-on experience delivering applications from concept to deployment.
+Flutter Developer focused on building scalable, production-ready mobile applications with strong emphasis on clean architecture, performance, and real-world feature implementation. Experienced in developing end-user applications involving real-time communication, location-based services, payments, e-commerce, and multimedia platforms.
 
-I am currently expanding my backend expertise with Go (Golang) and strengthening my understanding of system design and backend architecture to contribute effectively to end-to-end product development.
-
----
-
-## Professional Summary
-- Flutter Developer with experience in production mobile applications
-- Strong understanding of clean architecture and scalable app design
-- Experience integrating REST APIs and real-time communication
-- Actively learning backend development and system design
-- Passionate about clean code, performance, and maintainability
+Currently expanding backend knowledge with Go (Golang) and system design concepts to support end-to-end application development.
 
 ---
 
-## Experience
-
-### Flutter Developer — SM Technology
-**Duration:** Present
-
-- Developed and maintained cross-platform mobile applications using Flutter
-- Implemented clean architecture for scalable and maintainable codebases
-- Integrated REST APIs and Firebase services
-- Worked with real-time features using WebSocket and Socket.IO
-- Optimized application performance and improved UI responsiveness
-- Collaborated with designers and backend developers for feature delivery
-- Managed app releases to Google Play Store and Apple App Store
+## Core Competencies
+- Cross-platform mobile application development using Flutter
+- Clean architecture and scalable app structure
+- Real-time communication and event-driven features
+- Secure local storage and data persistence
+- API-driven and backend-integrated applications
 
 ---
 
@@ -38,12 +23,31 @@ I am currently expanding my backend expertise with Go (Golang) and strengthening
 - Dart
 - Flutter Version Management (FVM)
 
-### Backend and Cloud
-- Firebase (Authentication, Firestore, Realtime Database)
+### Application Features & Domains
+- Real-time Messaging Systems
+- Audio and Video Calling
+- Video Upload and Streaming Platforms
+- Location-based Applications using Google Maps
+- E-commerce Applications
+- Payment Gateway Integration
+- Authentication and User Management
+
+### Backend and Cloud Integration
 - RESTful APIs
-- WebSocket (real-time, bi-directional communication)
-- Socket.IO (event-driven real-time messaging)
-- Go (Golang) – backend fundamentals and learning projects
+- WebSocket (bi-directional real-time communication)
+- Socket.IO (event-based real-time messaging)
+- Firebase (Authentication, Firestore, Realtime Database)
+- Go (Golang) – backend fundamentals (learning)
+
+### Audio and Video Communication
+- ZEGOCLOUD (Audio Calling, Video Calling, Real-Time Streaming)
+
+### Local Storage and Data Persistence
+- Hive
+- Sqflite
+- GetX Storage
+- Shared Preferences
+- Flutter Secure Storage
 
 ### State Management
 - BLoC
@@ -52,17 +56,29 @@ I am currently expanding my backend expertise with Go (Golang) and strengthening
 
 ### Architecture and Design
 - Clean Architecture
-- MVC and MVVM
+- MVC
+- MVVM
 - Feature-First Architecture
 - Layer-First Architecture
 
+### Maps and Location Services
+- Google Maps SDK
+- Real-time location tracking
+- Marker, polyline, and map interaction handling
+
+### Payments
+- Payment Gateway Integration
+- Secure transaction handling
+- Order and payment flow management
+
 ### CI/CD and Deployment
-- Google Play Store and Apple App Store
+- Google Play Store deployment
+- Apple App Store deployment
 - GitHub Actions
 - Fastlane
 
 ### UI/UX Collaboration
-- Figma (design handoff and implementation)
+- Figma (design interpretation and implementation)
 
 ### Tools and Platforms
 - Git and GitHub
@@ -73,34 +89,24 @@ I am currently expanding my backend expertise with Go (Golang) and strengthening
 
 ---
 
-## Selected Projects
-
-### Flutter Production Applications
-- Developed scalable Flutter applications following clean architecture
-- Implemented authentication, real-time updates, and API integrations
-- Ensured performance optimization and maintainable code structure
-
-### Real-Time Features
-- Implemented WebSocket-based real-time communication
-- Used Socket.IO for event-driven messaging
-- Handled connection lifecycle, error recovery, and state synchronization
-
-### Backend Learning Projects (Go)
-- REST API fundamentals
-- WebSocket server basics
-- Concurrent service concepts using Go routines
+## Project Capabilities
+- Messaging applications with real-time updates
+- Audio and video calling applications
+- Video-based platforms where uploaded content is viewable by all users
+- Location-aware applications using maps and live tracking
+- Full-featured e-commerce platforms
+- Secure applications with encrypted local storage
+- API-driven and backend-connected mobile systems
 
 ---
 
 ## Competitive Programming and Problem Solving
-I actively practice data structures and algorithms to strengthen analytical thinking and improve system-level decision-making.
-
 - Beecrowd: https://judge.beecrowd.com/en/profile/1182369
 - LeetCode: https://leetcode.com/dev-asib/
 
 ---
 
-## GitHub Activity and Statistics
+## GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asib-research&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://streak-stats.demolab.com/?user=asib-research&theme=tokyonight" height="165" />
@@ -112,21 +118,16 @@ I actively practice data structures and algorithms to strengthen analytical thin
 
 ---
 
-## Professional Interests
-- Scalable mobile system design
-- Real-time application architecture
-- Backend services and distributed systems
-- Performance optimization and clean code practices
+## Professional Focus
+- Building reliable, scalable Flutter applications
+- Implementing real-time and media-heavy features
+- Writing clean, maintainable, and testable code
+- Continuous improvement in system design and backend development
 
 ---
 
-## Contact Information
+## Contact
 - GitHub: https://github.com/asib-research
 - LinkedIn: https://www.linkedin.com/in/asifraiyan-systems/
 - Email: asifraiyan.systems@gmail.com
-- Facebook: https://www.facebook.com/asib.research/
-
----
-
-## Professional Statement
-I am committed to building reliable, scalable, and maintainable software using strong engineering principles. I value clear architecture, collaboration, and continuous learning. I am open to professional opportunities, open-source contributions, and impactful technical collaborations.
+- Facebook: https://www.facebook.com/61582504727888/
