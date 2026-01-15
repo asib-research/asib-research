@@ -1,58 +1,46 @@
 # Asib
 Flutter Developer | Software Engineer
 
-Flutter Developer focused on building scalable, production-ready mobile applications with strong emphasis on clean architecture, performance, and real-world feature implementation. Experienced in developing end-user applications involving real-time communication, location-based services, payments, e-commerce, and multimedia platforms.
+Flutter Developer focused on building scalable, maintainable, and production-ready mobile applications using Flutter. Strong emphasis on clean architecture, performance optimization, and structured state management. Experienced in developing real-world applications following modern mobile engineering practices.
 
 Currently expanding backend knowledge with Go (Golang) and system design concepts to support end-to-end application development.
 
 ---
 
-## Core Competencies
-- Cross-platform mobile application development using Flutter
-- Clean architecture and scalable app structure
-- Real-time communication and event-driven features
-- Secure local storage and data persistence
-- API-driven and backend-integrated applications
+## About
+- Focused on cross-platform mobile development using Flutter
+- Strong understanding of clean architecture and scalable codebases
+- Experience with API-driven and real-time mobile applications
+- Interested in backend systems and distributed architecture
+- Continuous learner with a problem-solving mindset
 
 ---
 
-## Technical Skills
+## Tech Stack
 
 ### Mobile Development
 - Flutter (iOS and Android)
 - Dart
 - Flutter Version Management (FVM)
 
-### Application Features & Domains
-- Real-time Messaging Systems
-- Audio and Video Calling
-- Video Upload and Streaming Platforms
-- Location-based Applications using Google Maps
-- E-commerce Applications
-- Payment Gateway Integration
-- Authentication and User Management
-
-### Backend and Cloud Integration
+### Backend and Cloud
 - RESTful APIs
-- WebSocket (bi-directional real-time communication)
-- Socket.IO (event-based real-time messaging)
+- WebSocket
+- Socket.IO
 - Firebase (Authentication, Firestore, Realtime Database)
-- Go (Golang) – backend fundamentals (learning)
-
-### Audio and Video Communication
-- ZEGOCLOUD (Audio Calling, Video Calling, Real-Time Streaming)
-
-### Local Storage and Data Persistence
-- Hive
-- Sqflite
-- GetX Storage
-- Shared Preferences
-- Flutter Secure Storage
+- Go (Golang) – learning backend fundamentals
 
 ### State Management
 - BLoC
 - GetX
 - Provider
+
+### Local Storage and Persistence
+- Hive
+- Sqflite
+- GetX Storage
+- Shared Preferences
+- Flutter Secure Storage
 
 ### Architecture and Design
 - Clean Architecture
@@ -61,26 +49,16 @@ Currently expanding backend knowledge with Go (Golang) and system design concept
 - Feature-First Architecture
 - Layer-First Architecture
 
-### Maps and Location Services
-- Google Maps SDK
-- Real-time location tracking
-- Marker, polyline, and map interaction handling
-
-### Payments
-- Payment Gateway Integration
-- Secure transaction handling
-- Order and payment flow management
-
 ### CI/CD and Deployment
-- Google Play Store deployment
-- Apple App Store deployment
+- Google Play Store
+- Apple App Store
 - GitHub Actions
 - Fastlane
 
 ### UI/UX Collaboration
-- Figma (design interpretation and implementation)
+- Figma
 
-### Tools and Platforms
+### Tools
 - Git and GitHub
 - VS Code
 - Android Studio
@@ -89,18 +67,7 @@ Currently expanding backend knowledge with Go (Golang) and system design concept
 
 ---
 
-## Project Capabilities
-- Messaging applications with real-time updates
-- Audio and video calling applications
-- Video-based platforms where uploaded content is viewable by all users
-- Location-aware applications using maps and live tracking
-- Full-featured e-commerce platforms
-- Secure applications with encrypted local storage
-- API-driven and backend-connected mobile systems
-
----
-
-## Competitive Programming and Problem Solving
+## Competitive Programming
 - Beecrowd: https://judge.beecrowd.com/en/profile/1182369
 - LeetCode: https://leetcode.com/dev-asib/
 
@@ -119,10 +86,10 @@ Currently expanding backend knowledge with Go (Golang) and system design concept
 ---
 
 ## Professional Focus
-- Building reliable, scalable Flutter applications
-- Implementing real-time and media-heavy features
-- Writing clean, maintainable, and testable code
-- Continuous improvement in system design and backend development
+- Writing clean, maintainable, and scalable Flutter code
+- Building production-ready mobile applications
+- Improving performance and architectural quality
+- Learning backend systems and system design
 
 ---
 
