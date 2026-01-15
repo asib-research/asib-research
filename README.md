@@ -93,7 +93,7 @@ I love solving **algorithmic challenges** and participating in **competitive pro
 
 ## 📫 Let's Connect!  
 [![GitHub](https://img.shields.io/badge/GitHub-Dev%20Asib-24292E?style=for-the-badge&logo=github)](https://github.com/asib-research)  
-[![Facebook](https://img.shields.io/badge/Facebook-Dev%20Asib-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/asib.research/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Asif%20Raiyan-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/61582504727888/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Asib%20Raiyan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asifraiyan-systems/)  
 [![Gmail](https://img.shields.io/badge/Gmail-asifraiyan.systems%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asifraiyan.systems@gmail.com)
 
