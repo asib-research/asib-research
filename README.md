@@ -27,7 +27,7 @@ Currently expanding backend knowledge with Go (Golang) and system design concept
 - RESTful APIs
 - WebSocket
 - Socket.IO
-- Firebase (Authentication, Firestore, Realtime Database)
+- Firebase 
 - Go (Golang) – learning backend fundamentals
 
 ### State Management
@@ -49,11 +49,9 @@ Currently expanding backend knowledge with Go (Golang) and system design concept
 - Feature-First Architecture
 - Layer-First Architecture
 
-### CI/CD and Deployment
+### Deployment
 - Google Play Store
 - Apple App Store
-- GitHub Actions
-- Fastlane
 
 ### UI/UX Collaboration
 - Figma
