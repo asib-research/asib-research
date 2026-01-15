@@ -1,5 +1,5 @@
 # Asib
-Flutter Developer | Software Engineer
+Flutter Developer
 
 Flutter Developer focused on building scalable, maintainable, and production-ready mobile applications using Flutter. Strong emphasis on clean architecture, performance optimization, and structured state management. Experienced in developing real-world applications following modern mobile engineering practices.
 
