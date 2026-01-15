@@ -1,5 +1,5 @@
-# 🚀 Hi there! I'm Asib 👋  
-## 💻 Flutter Developer | Problem Solver | Software Development Enthusiast  
+#Hi there! I'm Asib  
+## Flutter Developer | Problem Solver | Software Development Enthusiast  
 
 I am a **passionate Flutter Developer** who loves building **scalable, high-performance, and user-friendly applications**.  
 With expertise in **cross-platform mobile development, clean architecture, and performance optimization**, I strive to create efficient and intuitive digital experiences.  
@@ -9,7 +9,7 @@ Currently, I am expanding my skills by learning **Backend Development with Go** 
 ---
 
 ## 📌 About Me  
-- 🔭 **Currently Working At:** Flutter Developer  
+- 🔭 **Currently Working At:** Flutter Developer at SM Technology  
 - 🎯 **Focused On:** Scalable Flutter Apps, Clean Architecture, Performance Optimization  
 - 🌱 **Currently Learning:**  
   - **Backend Development with Go**  
@@ -26,11 +26,7 @@ Currently, I am expanding my skills by learning **Backend Development with Go** 
 ![FVM](https://img.shields.io/badge/FVM-0066FF?style=for-the-badge&logo=flutter&logoColor=white)  
 
 ### ⚡ Backend & Cloud  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![WebSocket](https://img.shields.io/badge/WebSocket-0066CC?style=for-the-badge&logo=websocket&logoColor=white)  
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)  
 
