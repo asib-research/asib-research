@@ -1,4 +1,4 @@
-# Asib Raiyan
+# Asib
 Flutter Developer | Software Engineer
 
 I am a Flutter Developer with a strong focus on building scalable, maintainable, and high-performance cross-platform mobile applications. I specialize in clean architecture, structured state management, and production-ready Flutter solutions. I have hands-on experience delivering applications from concept to deployment.
@@ -124,7 +124,7 @@ I actively practice data structures and algorithms to strengthen analytical thin
 - GitHub: https://github.com/asib-research
 - LinkedIn: https://www.linkedin.com/in/asifraiyan-systems/
 - Email: asifraiyan.systems@gmail.com
-- Facebook: https://www.facebook.com/61582504727888/
+- Facebook: https://www.facebook.com/asib.research/
 
 ---
 
