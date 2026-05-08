@@ -5,6 +5,8 @@
 I am a **passionate Flutter Developer** who builds **scalable, high-performance, and production-ready mobile applications**.
 I focus on **clean architecture, system design principles, and performance optimization** to deliver smooth and maintainable user experiences.
 
+Flutter Developer with **1+ years of professional experience building production-level Flutter applications** and **2.5+ years of overall hands-on development experience**.
+
 Currently, I am leveling up in **Advanced Flutter Development** and **System Design** to build large-scale, real-world applications.
 
 ---
