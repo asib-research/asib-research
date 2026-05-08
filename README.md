@@ -1,129 +1,118 @@
 # 🚀 Hi there! I'm Asib 👋
 
-## 💻 Flutter Developer
+## 💻 Flutter Developer | Software Engineer | Clean Architecture Enthusiast
 
-I am a **passionate Flutter Developer** who loves building **scalable, high-performance, and user-friendly applications**.
-With expertise in **cross-platform mobile development, clean architecture, and performance optimization**, I strive to create efficient and intuitive digital experiences.
+I am a **passionate Flutter Developer** who builds **scalable, high-performance, and production-ready mobile applications**.
+I focus on **clean architecture, system design principles, and performance optimization** to deliver smooth and maintainable user experiences.
 
-Currently, I am diving deeper into **Advanced Flutter** and **System Design** to build more robust and scalable applications.
+Currently, I am leveling up in **Advanced Flutter Development** and **System Design** to build large-scale, real-world applications.
 
 ---
 
 ## 📌 About Me
 
 * 🔭 **Currently Working As:** Flutter Developer
-* 🎯 **Focused On:** Scalable Flutter Apps, Clean Architecture, Performance Optimization
-* 🌱 **Currently Exploring:**
-
-  * **Advanced Flutter Development**
-  * **System Design**
-* 💡 **Looking To Collaborate On:** Open Source & Innovative Mobile Projects
+* 🎯 **Focus Areas:** Scalable Mobile Apps, Clean Architecture, Performance Optimization
+* 🌱 **Currently Learning:** Advanced Flutter, System Design
+* 💡 **Open To:** Open Source Contributions & High-Impact Mobile Projects
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 💻 Programming Languages & Frameworks
 
-### 📱 Mobile Development
+### 🧠 Languages
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+
+### 📱 Framework
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![FVM](https://img.shields.io/badge/FVM-0066FF?style=for-the-badge\&logo=flutter\&logoColor=white)
-
-### ⚡ Backend & Integration
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![WebSocket](https://img.shields.io/badge/WebSocket-0066CC?style=for-the-badge\&logo=websocket\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
-![Dio](https://img.shields.io/badge/Dio-0175C2?style=for-the-badge)
-![HTTP](https://img.shields.io/badge/HTTP-Networking-blue?style=for-the-badge)
-![GetConnect](https://img.shields.io/badge/GetConnect-8A2BE2?style=for-the-badge)
-
-### 💾 Local Storage
-
-* **GetX Storage**
-* **SharedPreferences**
-* **Hive**
-* **Flutter Secure Storage**
-* **Hydrated BLoC**
-
-### 🧩 State Management
-
-* **BLoC**
-* **GetX**
-* **Provider**
-
-### 🏗️ App Deployment
-
-* **Google Play & App Store Deployment**
-* **CI/CD:** GitHub Actions
-
-### 📏 Architecture & Design Patterns
-
-* **Clean Architecture**
-* **MVC, MVVM**
-* **Layer First Architecture**
-* **Feature First Architecture**
-* **Repository Pattern**
-* **Singleton Pattern**
-* **DRY Principle**
-
-### 🎨 UI/UX Design
-
-* **Figma**
-
-### 🔧 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge\&logo=android-studio\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-1F3C88?style=for-the-badge\&logo=intellij-idea\&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats & Activity
+## ⚡ Backend & Integration
 
-<table>  
-<tr>  
-<td>  
-<a href="https://github.com/asib-research">  
-<img src="https://github-readme-stats.vercel.app/api?username=asib-research&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>  
-</a>  
-</td>  
-<td>  
-<a href="https://streak-stats.demolab.com/?user=asib-research&theme=tokyonight">  
-<img src="https://streak-stats.demolab.com/?user=asib-research&theme=tokyonight" alt="GitHub Streak"/>  
-</a>  
-</td>  
-</tr>  
-<tr>  
-<td colspan="2" align="center">  
-<a href="https://github.com/anuraghazra/github-readme-stats">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asib-research&layout=compact&theme=tokyonight" alt="Top Languages"/>  
-</a>  
-</td>  
-</tr>  
-</table>  
+* Firebase
+* REST API
+* WebSocket
+* Socket.IO
+* Dio / HTTP
+* GetConnect
 
 ---
 
-## 🏆 Competitive Programming & Problem Solving
+## 💾 Local Storage
 
-I love solving **algorithmic challenges** and participating in **competitive programming**.
-
-* **LeetCode**: [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/asib-research/)
-
----
-
-## 📫 Let's Connect!
-
-[![GitHub](https://img.shields.io/badge/GitHub-Asib%20Research-24292E?style=for-the-badge\&logo=github)](https://github.com/asib-research)
-[![Gmail](https://img.shields.io/badge/Gmail-asib.research%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:asib.research@gmail.com)
+* GetX Storage
+* SharedPreferences
+* Hive
+* Flutter Secure Storage
+* Hydrated BLoC
 
 ---
 
-## 🚀 Let's Build Something Amazing Together!
+## 🧩 State Management
 
-*"Passionate about Flutter, Clean Code, and Scalable Architecture. Always open to new opportunities and collaborations!"*
+* BLoC
+* Riverpod
+* Provider
+* GetX
+
+---
+
+## 🏗️ Architecture & Principles
+
+* Clean Architecture
+* MVC / MVVM
+* Feature First Architecture
+* Repository Pattern
+* Singleton Pattern
+* DRY Principle
+
+---
+
+## 🚀 Deployment & CI/CD
+
+* Google Play Store & App Store Deployment
+* GitHub Actions (CI/CD)
+
+---
+
+## 🎨 UI/UX
+
+* Figma
+
+---
+
+## 🔧 Tools
+
+Git • GitHub • VS Code • Android Studio • Postman • IntelliJ IDEA
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=asib-research\&show_icons=true\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=asib-research\&theme=tokyonight)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asib-research\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🏆 Competitive Programming
+
+* LeetCode: asib-research
+
+---
+
+## 📫 Contact
+
+📧 Email: [asib.research@gmail.com](mailto:asib.research@gmail.com)
+GitHub: github.com/asib-research
+
+---
+
+## 🚀 Closing
+
+*"Passionate about building scalable systems, writing clean code, and solving real-world problems with technology."*
