@@ -34,6 +34,10 @@ Currently, I am diving deeper into **Advanced Flutter** and **System Design** to
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![WebSocket](https://img.shields.io/badge/WebSocket-0066CC?style=for-the-badge\&logo=websocket\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
+![Dio](https://img.shields.io/badge/Dio-0175C2?style=for-the-badge)
+![HTTP](https://img.shields.io/badge/HTTP-Networking-blue?style=for-the-badge)
+![GetConnect](https://img.shields.io/badge/GetConnect-8A2BE2?style=for-the-badge)
 
 ### 💾 Local Storage
 
