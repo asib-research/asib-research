@@ -5,18 +5,18 @@
 I am a **passionate Flutter Developer** who loves building **scalable, high-performance, and user-friendly applications**.
 With expertise in **cross-platform mobile development, clean architecture, and performance optimization**, I strive to create efficient and intuitive digital experiences.
 
-Currently, I am expanding my skills by learning **Backend Development with Go** and diving deeper into **System Design**.
+Currently, I am diving deeper into **Advanced Flutter** and **System Design** to build more robust and scalable applications.
 
 ---
 
 ## 📌 About Me
 
-* 🔭 **Currently Working At:** Flutter Developer
+* 🔭 **Currently Working As:** Flutter Developer
 * 🎯 **Focused On:** Scalable Flutter Apps, Clean Architecture, Performance Optimization
-* 🌱 **Currently Learning:**
+* 🌱 **Currently Exploring:**
 
-  * **Backend Development with Go**
-  * **Advanced Flutter & System Design**
+  * **Advanced Flutter Development**
+  * **System Design**
 * 💡 **Looking To Collaborate On:** Open Source & Innovative Mobile Projects
 
 ---
@@ -29,15 +29,19 @@ Currently, I am expanding my skills by learning **Backend Development with Go** 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 ![FVM](https://img.shields.io/badge/FVM-0066FF?style=for-the-badge\&logo=flutter\&logoColor=white)
 
-### ⚡ Backend & Cloud
+### ⚡ Backend & Integration
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-0066CC?style=for-the-badge\&logo=websocket\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+
+### 💾 Local Storage
+
+* **GetX Storage**
+* **SharedPreferences**
+* **Hive**
+* **Flutter Secure Storage**
+* **Hydrated BLoC**
 
 ### 🧩 State Management
 
@@ -48,7 +52,7 @@ Currently, I am expanding my skills by learning **Backend Development with Go** 
 ### 🏗️ App Deployment
 
 * **Google Play & App Store Deployment**
-* **CI/CD:** GitHub Actions, Fastlane
+* **CI/CD:** GitHub Actions
 
 ### 📏 Architecture & Design Patterns
 
@@ -56,6 +60,9 @@ Currently, I am expanding my skills by learning **Backend Development with Go** 
 * **MVC, MVVM**
 * **Layer First Architecture**
 * **Feature First Architecture**
+* **Repository Pattern**
+* **Singleton Pattern**
+* **DRY Principle**
 
 ### 🎨 UI/UX Design
 
@@ -77,20 +84,20 @@ Currently, I am expanding my skills by learning **Backend Development with Go** 
 <table>  
 <tr>  
 <td>  
-<a href="https://github.com/dev-asib">  
-<img src="https://github-readme-stats.vercel.app/api?username=dev-asib&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>  
+<a href="https://github.com/asib-research">  
+<img src="https://github-readme-stats.vercel.app/api?username=asib-research&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>  
 </a>  
 </td>  
 <td>  
-<a href="https://streak-stats.demolab.com/?user=dev-asib&theme=tokyonight">  
-<img src="https://streak-stats.demolab.com/?user=dev-asib&theme=tokyonight" alt="GitHub Streak"/>  
+<a href="https://streak-stats.demolab.com/?user=asib-research&theme=tokyonight">  
+<img src="https://streak-stats.demolab.com/?user=asib-research&theme=tokyonight" alt="GitHub Streak"/>  
 </a>  
 </td>  
 </tr>  
 <tr>  
 <td colspan="2" align="center">  
 <a href="https://github.com/anuraghazra/github-readme-stats">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-asib&layout=compact&theme=tokyonight" alt="Top Languages"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asib-research&layout=compact&theme=tokyonight" alt="Top Languages"/>  
 </a>  
 </td>  
 </tr>  
@@ -108,7 +115,7 @@ I love solving **algorithmic challenges** and participating in **competitive pro
 
 ## 📫 Let's Connect!
 
-[![GitHub](https://img.shields.io/badge/GitHub-Dev%20Asib-24292E?style=for-the-badge\&logo=github)](https://github.com/dev-asib)
+[![GitHub](https://img.shields.io/badge/GitHub-Asib%20Research-24292E?style=for-the-badge\&logo=github)](https://github.com/asib-research)
 [![Gmail](https://img.shields.io/badge/Gmail-asib.research%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:asib.research@gmail.com)
 
 ---
