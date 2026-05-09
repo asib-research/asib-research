@@ -1,100 +1,157 @@
-# 🚀 Hi there! I'm Asib 👋
+# Hi, I'm Asib 👋
 
-## 💻 Flutter Developer | Software Engineer | Clean Architecture Enthusiast
+## Flutter Developer | Scalable Mobile Systems Engineer
 
-I am a **passionate Flutter Developer** who builds **scalable, high-performance, and production-ready mobile applications**.
-I focus on **clean architecture, system design principles, and performance optimization** to deliver smooth, maintainable, and real-world solutions.
+Flutter Developer with **2.6+ years of hands-on Flutter development experience**, including **1+ year of professional industry experience** delivering production applications on Google Play Store and Apple App Store.
 
-Flutter Developer with **1+ years of professional experience building production-level Flutter applications** and **2.5+ years of overall hands-on development experience**.
+Focused on building scalable, high-performance, and production-grade mobile applications using Clean Architecture, MVVM, MVC, layered architecture, and feature-first modular design principles.
 
-Currently, I am leveling up in **Advanced Flutter Development** and **System Design** to build large-scale, distributed applications.
-
----
-
-## 📌 About Me
-
-* 🔭 **Currently Working As:** Flutter Developer
-* 🎯 **Focus Areas:** Scalable Mobile Apps, Clean Architecture, Performance Optimization
-* 🌱 **Currently Learning:** Advanced Flutter, System Design
-* 💡 **Open To:** Open Source Contributions & High-Impact Mobile Projects
+Experienced in real-time communication systems, Firebase services, backend API integration, subscription-based systems, and production deployment workflows.
 
 ---
 
-## 💻 Programming Languages & Frameworks
+## Engineering Focus
 
-### 🧠 Languages
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-
-### 📱 Framework
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+- Scalable Mobile Architecture
+- Clean Architecture & Feature-Based Design
+- Real-time Communication Systems
+- Production-Level Flutter Engineering
+- Performance Optimization
+- Cross-Platform Mobile Systems
 
 ---
 
-## ⚡ Backend & Integration
+## Tech Stack
 
-* Firebase
-* REST API
-* WebSocket
-* Socket.IO
-* Dio / HTTP
-* GetConnect
+### Languages
+- Dart
+- Go
+- C
+
+### Mobile Framework
+- Flutter
+
+### Architecture
+- Clean Architecture
+- MVVM
+- MVC
+- Layered Architecture
+- Feature-Based Architecture
+- Repository Pattern
+
+### State Management
+- BLoC
+- Riverpod
+- Provider
+- GetX
+
+### Backend Integration
+- REST APIs
+- Dio
+- HTTP
+- GetConnect
+
+### Firebase
+- Authentication
+- Cloud Firestore
+- Firebase Cloud Messaging (FCM)
+- Push Notifications
+
+### Realtime Systems
+- ZegoCloud (Video/Audio Streaming)
+
+### Monetization
+- RevenueCat
+
+### Maps & Localization
+- Google Maps API
+- GetX Localization
+- Google Translation API
+
+### Local Storage
+- Hive
+- SharedPreferences
+- Flutter Secure Storage
+- GetX Storage
+- Hydrated Bloc
+
+### Tools
+- Git
+- GitHub
+- FVM
+- Firebase CLI
+- Postman
+- VS Code
+- Android Studio
+- IntelliJ IDEA
 
 ---
 
-## 💾 Local Storage
+## Professional Experience
 
-* GetX Storage
-* SharedPreferences
-* Hive
-* Flutter Secure Storage
-* Hydrated BLoC
+### Flutter Engineer — SM Technology
 
----
-
-## 🧩 State Management
-
-* BLoC
-* Riverpod
-* Provider
-* GetX
+- Built and maintained production-grade Flutter applications with active users
+- Designed scalable architectures using Clean Architecture, MVVM, MVC, layered architecture, and feature-based modular systems
+- Integrated real-time communication systems using ZegoCloud
+- Implemented Firebase Authentication and Firebase Cloud Messaging (FCM)
+- Integrated REST APIs developed by backend engineering teams
+- Optimized application performance through efficient state management and UI rendering optimization
+- Delivered applications to Google Play Store and Apple App Store
 
 ---
 
-## 🏗️ Architecture & Principles
+## Featured Projects
 
-* Clean Architecture
-* MVC / MVVM
-* Feature First Architecture
-* Repository Pattern
-* Singleton Pattern
-* DRY Principle
+### Baraka Dish — Multi-Vendor Food Delivery Marketplace Platform
 
----
-
-## 🚀 Deployment & CI/CD
-
-* Google Play Store & App Store Deployment
-* GitHub Actions (CI/CD)
+- Built scalable multi-role marketplace architecture supporting Super Admin, Restaurant Owners, and End Users
+- Implemented real-time order lifecycle tracking system
+- Integrated Google Maps-based restaurant discovery and location visualization
+- Implemented authentication with Email/Password and Social Login
+- Implemented Firebase Cloud Messaging (FCM)-based push notification navigation system
+- Integrated multi-language system using GetX localization and translation APIs
+- Integrated REST APIs developed by backend engineering teams
 
 ---
 
-## 🎨 UI/UX Design
+### Quexxen — Real-time Secure Video Communication Platform
 
-* Figma
-
----
-
-## 🔧 Tools
-
-Git • GitHub • VS Code • Android Studio • Postman • IntelliJ IDEA
+- Built low-latency group video communication system using ZegoCloud
+- Designed secure authentication and communication flow
+- Implemented real-time push notification system using Firebase Cloud Messaging (FCM)
+- Integrated backend APIs developed by backend engineering teams
+- Optimized cross-platform performance for Android and iOS production environments
 
 ---
 
-## 📊 GitHub Stats
+### Ventro Core — Mood Tracking & Meditation System
+
+- Built mood tracking and behavioral journaling system
+- Implemented subscription-based monetization using RevenueCat
+- Developed audio/video meditation system with background playback support
+- Integrated multi-language support using translation APIs
+- Implemented Firebase Cloud Messaging (FCM)-based engagement system
+- Designed adaptive light and dark theme architecture
+- Integrated REST APIs developed by backend engineering teams
+
+---
+
+## Problem Solving
+
+Strong foundation in Data Structures and Algorithms with focus on:
+
+- Problem-solving efficiency
+- Logical reasoning
+- Time complexity optimization
+- Scalable engineering thinking
+
+### LeetCode
+- https://leetcode.com/u/asib-research/
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asib-research&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -110,18 +167,12 @@ Git • GitHub • VS Code • Android Studio • Postman • IntelliJ IDEA
 
 ---
 
-## 🏆 Competitive Programming
+## Contact
 
-* **LeetCode:** https://leetcode.com/asib-research/
-
----
-
-## 📫 Contact
-
-📧 Email: [asib.research@gmail.com](mailto:asib.research@gmail.com)
+- Email: asib.research@gmail.com
+- GitHub: https://github.com/asib-research
+- LeetCode: https://leetcode.com/u/asib-research/
 
 ---
 
-## 🚀 Closing Statement
-
-*"Passionate about building scalable systems, writing clean code, and solving real-world engineering problems with modern mobile technologies."*
+> Passionate about building scalable mobile systems, writing maintainable code, and solving real-world engineering problems through modern Flutter development.
