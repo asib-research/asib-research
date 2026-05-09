@@ -1,6 +1,6 @@
 # Hi, I'm Asib
 
-## Flutter Developer | Scalable Mobile Systems Engineer
+## Flutter Developer
 
 Flutter Developer with **2.6+ years of hands-on Flutter development experience**, including **1+ year of professional industry experience** delivering production applications on Google Play Store and Apple App Store.
 
