@@ -147,7 +147,7 @@ Strong foundation in Data Structures and Algorithms with focus on:
 - Scalable engineering thinking
 
 ### LeetCode
-- https://leetcode.com/u/asib-research/
+- https://leetcode.com/u/asib-research
 
 ---
 
@@ -170,8 +170,6 @@ Strong foundation in Data Structures and Algorithms with focus on:
 ## Contact
 
 - Email: asib.research@gmail.com
-- GitHub: https://github.com/asib-research
-- LeetCode: https://leetcode.com/u/asib-research/
 
 ---
 
