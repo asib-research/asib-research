@@ -1,4 +1,4 @@
-# Hi, I'm Asib 👋
+# Hi, I'm Asib
 
 ## Flutter Developer | Scalable Mobile Systems Engineer
 
