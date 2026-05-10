@@ -87,56 +87,6 @@ Experienced in real-time communication systems, Firebase services, backend API i
 
 ---
 
-## Professional Experience
-
-### Flutter Engineer — SM Technology
-
-- Built and maintained production-grade Flutter applications with active users
-- Designed scalable architectures using Clean Architecture, MVVM, MVC, layered architecture, and feature-based modular systems
-- Integrated real-time communication systems using ZegoCloud
-- Implemented Firebase Authentication and Firebase Cloud Messaging (FCM)
-- Integrated REST APIs developed by backend engineering teams
-- Optimized application performance through efficient state management and UI rendering optimization
-- Delivered applications to Google Play Store and Apple App Store
-
----
-
-## Featured Projects
-
-### Baraka Dish — Multi-Vendor Food Delivery Marketplace Platform
-
-- Built scalable multi-role marketplace architecture supporting Super Admin, Restaurant Owners, and End Users
-- Implemented real-time order lifecycle tracking system
-- Integrated Google Maps-based restaurant discovery and location visualization
-- Implemented authentication with Email/Password and Social Login
-- Implemented Firebase Cloud Messaging (FCM)-based push notification navigation system
-- Integrated multi-language system using GetX localization and translation APIs
-- Integrated REST APIs developed by backend engineering teams
-
----
-
-### Quexxen — Real-time Secure Video Communication Platform
-
-- Built low-latency group video communication system using ZegoCloud
-- Designed secure authentication and communication flow
-- Implemented real-time push notification system using Firebase Cloud Messaging (FCM)
-- Integrated backend APIs developed by backend engineering teams
-- Optimized cross-platform performance for Android and iOS production environments
-
----
-
-### Ventro Core — Mood Tracking & Meditation System
-
-- Built mood tracking and behavioral journaling system
-- Implemented subscription-based monetization using RevenueCat
-- Developed audio/video meditation system with background playback support
-- Integrated multi-language support using translation APIs
-- Implemented Firebase Cloud Messaging (FCM)-based engagement system
-- Designed adaptive light and dark theme architecture
-- Integrated REST APIs developed by backend engineering teams
-
----
-
 ## Problem Solving
 
 Strong foundation in Data Structures and Algorithms with focus on:
