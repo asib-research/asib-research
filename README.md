@@ -51,6 +51,11 @@ Experienced in real-time communication systems, Firebase services, backend API i
 - HTTP
 - GetConnect
 
+### Navigation & Routing
+- Flutter Navigator
+- GetX Routing
+- GoRouter
+  
 ### Firebase
 - Authentication
 - Cloud Firestore
