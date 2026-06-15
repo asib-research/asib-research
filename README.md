@@ -27,6 +27,7 @@ Experienced in real-time communication systems, Firebase services, backend API i
 - Dart
 - Go
 - C
+- C++
 
 ### Mobile Framework
 - Flutter
@@ -74,6 +75,7 @@ Experienced in real-time communication systems, Firebase services, backend API i
 - Google Translation API
 
 ### Local Storage
+- Isar
 - Hive
 - SharedPreferences
 - Flutter Secure Storage
