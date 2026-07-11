@@ -2,7 +2,7 @@
 
 ## Flutter Developer
 
-Flutter Developer with **2.10+ years of hands-on Flutter development experience**, including **1.5+ year of professional industry experience** delivering production applications on Google Play Store and Apple App Store.
+Flutter Developer with **2.10+ years of hands-on Flutter development experience**, including **1.6+ year of professional industry experience** delivering production applications on Google Play Store and Apple App Store.
 
 Focused on building scalable, high-performance, and production-grade mobile applications using Clean Architecture, MVVM, MVC, layered architecture, and feature-first modular design principles.
 
