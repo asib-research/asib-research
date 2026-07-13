@@ -1,132 +1,78 @@
-# Hi, I'm Asib
+👋 Hi, I'm Asib
 
-## Flutter Developer
+Flutter Developer
 
-Flutter Developer with **2.10+ years of hands-on Flutter development experience**, including **1.6+ year of professional industry experience** delivering production applications on Google Play Store and Apple App Store.
+Building scalable, maintainable, and production-ready cross-platform mobile applications with Flutter.
 
-Focused on building scalable, high-performance, and production-grade mobile applications using Clean Architecture, MVVM, MVC, layered architecture, and feature-first modular design principles.
-
-Experienced in real-time communication systems, Firebase services, backend API integration, subscription-based systems, and production deployment workflows.
+I enjoy building high-quality mobile applications with a strong focus on clean architecture, performance optimization, and long-term maintainability. I'm passionate about solving real-world problems through modern Flutter development and continuously improving my technical skills.
 
 ---
 
-## Engineering Focus
+🚀 About Me
 
-- Scalable Mobile Architecture
-- Clean Architecture & Feature-Based Design
-- Real-time Communication Systems
-- Production-Level Flutter Engineering
-- Performance Optimization
-- Cross-Platform Mobile Systems
+- 📱 2.10+ years of hands-on Flutter development experience
+- 💼 1.6+ years of professional industry experience
+- 🚀 Published production applications on Google Play Store and Apple App Store
+- 🏗️ Experienced in scalable application architecture and modular development
+- ⚡ Passionate about clean code, performance optimization, and best practices
+- 📚 Always learning new technologies and improving problem-solving skills
 
 ---
 
-## Tech Stack
+🎯 Areas of Focus
 
-### Languages
-- Dart
-- C
-- C++
-
-### Mobile Framework
-- Flutter
-
-### Architecture
+- Flutter Development
+- Cross-Platform Mobile Applications
 - Clean Architecture
-- MVVM
-- MVC
-- Layered Architecture
-- Feature-Based Architecture
-- Repository Pattern
-
-### State Management
-- BLoC
-- Riverpod
-- Provider
-- GetX
-
-### Backend Integration
-- REST APIs
-- Dio
-- HTTP
-- GetConnect
-
-### Navigation & Routing
-- Flutter Navigator
-- GetX Routing
-- GoRouter
-  
-### Firebase
-- Authentication
-- Cloud Firestore
-- Firebase Cloud Messaging (FCM)
-- Push Notifications
-
-### Realtime Systems
-- ZegoCloud (Video/Audio Streaming)
-
-### Monetization
-- RevenueCat
-
-### Maps & Localization
-- Google Maps API
-- GetX Localization
-- Google Translation API
-
-### Local Storage
-- Isar
-- Hive
-- SharedPreferences
-- Flutter Secure Storage
-- GetX Storage
-- Hydrated Bloc
-
-### Tools
-- Git
-- GitHub
-- FVM
-- Firebase CLI
-- Postman
-- VS Code
-- Android Studio
-- IntelliJ IDEA
+- Feature-Based Development
+- Real-Time Communication
+- Firebase Integration
+- REST API Integration
+- Performance Optimization
+- Production Deployment
 
 ---
 
-## Problem Solving
+⚙️ Tech Stack
 
-Strong foundation in Data Structures and Algorithms with focus on:
-
-- Problem-solving efficiency
-- Logical reasoning
-- Time complexity optimization
-- Scalable engineering thinking
-
-### LeetCode
-- https://leetcode.com/u/asib-research
+"Flutter" • "Dart" • "C" • "C++" • "Clean Architecture" • "MVVM" • "MVC" • "Layered Architecture" • "Feature-Based Architecture" • "Repository Pattern" • "BLoC" • "Riverpod" • "Provider" • "GetX" • "REST APIs" • "Dio" • "HTTP" • "GetConnect" • "Firebase Authentication" • "Cloud Firestore" • "Firebase Cloud Messaging (FCM)" • "Push Notifications" • "ZegoCloud" • "GoRouter" • "Flutter Navigator" • "GetX Routing" • "Isar" • "Hive" • "SharedPreferences" • "Flutter Secure Storage" • "GetX Storage" • "Hydrated Bloc" • "Google Maps API" • "GetX Localization" • "Google Translation API" • "RevenueCat" • "Git" • "GitHub" • "FVM" • "Firebase CLI" • "Postman" • "VS Code" • "Android Studio" • "IntelliJ IDEA"
 
 ---
 
-## GitHub Stats
+📖 Currently Learning
+
+- Advanced Flutter Development
+- Flutter Performance Optimization
+- Software Design Patterns
+- Data Structures & Algorithms
+- Backend Development
+
+---
+
+💻 Coding Profiles
+
+GitHub
+https://github.com/asib-research
+
+LeetCode
+https://leetcode.com/u/asib-research
+
+---
+
+📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asib-research&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asib-research&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asib-research&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p><p align="center">
   <img src="https://streak-stats.demolab.com/?user=asib-research&theme=tokyonight&hide_border=true" />
-</p>
+</p>---
+
+📫 Contact
+
+📧 asib.research@gmail.com
 
 ---
 
-## Contact
-
-- Email: asib.research@gmail.com
-
----
-
-> Passionate about building scalable mobile systems, writing maintainable code, and solving real-world engineering problems through modern Flutter development.
+«"Code for today. Design for tomorrow. Build for scale."»
