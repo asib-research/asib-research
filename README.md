@@ -35,7 +35,7 @@ I enjoy building high-quality mobile applications with a strong focus on **Clean
 
 ## ⚙️ Tech Stack
 
-`Flutter` • `Dart` • `C` • `C++` • `Clean Architecture` • `MVVM` • `MVC` • `Layered Architecture` • `Feature-Based Architecture` • `Repository Pattern` • `BLoC` • `Riverpod` • `Provider` • `GetX` • `REST APIs` • `Dio` • `HTTP` • `GetConnect` • `Firebase Authentication` • `Cloud Firestore` • `Firebase Cloud Messaging (FCM)` • `Push Notifications` • `ZegoCloud` • `GoRouter` • `Flutter Navigator` • `GetX Routing` • `Isar` • `Hive` • `SharedPreferences` • `Flutter Secure Storage` • `GetX Storage` • `Hydrated Bloc` • `Google Maps API` • `GetX Localization` • `Google Translation API` • `RevenueCat` • `Git` • `GitHub` • `FVM` • `Firebase CLI` • `Postman` • `VS Code` • `Android Studio` • `IntelliJ IDEA`
+`Flutter` • `Dart` • `C` • `C++` • `Clean Architecture` • `MVVM` • `MVC` • `Layered Architecture` • `Feature-Based Architecture` • `Repository Pattern` • `BLoC` • `Riverpod` • `Provider` • `GetX` • `REST APIs` • `Dio` • `HTTP` • `GetConnect` • `Firebase Authentication` • `Cloud Firestore` • `Firebase Cloud Messaging (FCM)` • `Push Notifications` • `ZegoCloud` • `GoRouter` • `Flutter Navigator` • `GetX Routing` • `SQLite (sqflite)` • `Isar` • `Hive` • `SharedPreferences` • `Flutter Secure Storage` • `GetX Storage` • `Hydrated Bloc` • `Google Maps API` • `GetX Localization` • `Google Translation API` • `RevenueCat` • `Git` • `GitHub` • `FVM` • `Firebase CLI` • `Postman` • `VS Code` • `Android Studio` • `IntelliJ IDEA`
 
 ---
 
