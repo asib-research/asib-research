@@ -10,7 +10,7 @@ I enjoy building high-quality mobile applications with a strong focus on **Clean
 
 ## 🚀 About Me
 
-- 📱 **2.10+ years** of hands-on Flutter development experience
+- 📱 **2.11+ years** of hands-on Flutter development experience
 - 💼 **1.6+ years** of professional industry experience
 - 🚀 Published production applications on **Google Play Store** and **Apple App Store**
 - 🏗️ Experienced in scalable application architecture and modular development
